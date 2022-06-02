@@ -85,7 +85,7 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [ᴛʀᴏᴊᴀɴs](https://github.com/AnonymousR1025): Developer
+- [ᴛʀᴏᴊᴀɴs](https://github.com/THE_TROJANS): Developer
 - [ᴛʀᴏᴊᴀɴs ʀᴏʙᴏᴛ](https://t.me/URANIUMxROBOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
